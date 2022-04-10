@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class CorpinfomationConfig(AppConfig):
+class CorpinformationConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'corpInfomation'
+    name = 'corpInformation'
